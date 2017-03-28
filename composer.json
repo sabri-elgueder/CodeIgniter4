@@ -2,8 +2,13 @@
 	"description": "The CodeIgniter framework v4",
 	"name": "codeigniter/framework",
 	"type": "project",
-	"homepage": "https://codeigniter.com",
+	"homepage": "http://www.sabri-elgueder.tn",
 	"license": "MIT",
+	"authors": [
+	{
+		"name": "Sabri El Gueder",
+		"email": "sabri.elgueder@satoripop.com"
+	}],
 	"support": {
 		"forum": "http://forum.codeigniter.com/",
 		"wiki": "https://github.com/bcit-ci/CodeIgniter4/wiki",
